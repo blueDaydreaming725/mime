@@ -1,0 +1,21 @@
+test/mime.test.js
+  s_e5720201168b5c::t_f4b72626865a89 149-152
+src/Mime.ts
+  s_e5720201168b5c::t_fb7d40bc31618f 98,100
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.51-trip",
+  "base_commit_sha": "02918aa7430eaf489355077ca1cdd1e0f8f08ac2",
+  "prompts": {},
+  "sessions": {
+    "s_e5720201168b5c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18091-0c6a-7c10-8b99-04407006f7b3",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "yuxuan.weng <wengyx@trip.com>"
+    }
+  }
+}
